@@ -5,7 +5,7 @@
 
 #### 🙌 My name is Saqlain Brawl
 #### 🎓 Indian software engineering student
-#### 📍 Currently an intern at [Bot Dev](https://saqlainbrawl.repl.co/)
+#### 📍 Currently a [Bot Dev](https://saqlainbrawl.repl.co/)
 #### 🌱 Recently learned Quarkus & REACT
 
 ## 🛠 Tech Stack
