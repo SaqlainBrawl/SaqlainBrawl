@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:14406D,100:308A70&section=header&text=Hi%20there%20👋&fontColor=f2f2f2&fontSize=40&desc=😎%20code%20enjoyer&descSize=15&descAlign=48&descAlignY=80&animation=fadeIn)
 
-![Discord](![image](https://github.com/SaqlainBrawl/SaqlainBrawl/assets/127043575/8e80fbf1-b2cc-4fe0-befa-ba2c87f814ab)
-)
+![Discord](https://cdn.discordapp.com/attachments/944601632375734332/1122487812730667018/discorddddddd.png)
 ![views](https://komarev.com/ghpvc/?username=Pexilo&style=for-the-badge&label=VIEWS&color=5865f2)
 
 #### 🙌 My name is Saqlain Brawl
