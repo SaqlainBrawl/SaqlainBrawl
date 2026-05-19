@@ -34,7 +34,7 @@
 
 🔴 Building **Sarimo** — 1423+ manga sources
 
-🟠 Launching **SailusFit** — AI fitness app
+🟠 Launching **SailusFit** — Calisthenics fitness app
 
 🟣 Shipped **Areal Bot** — 50+ Discord servers
 
@@ -52,9 +52,9 @@
 
 | Project | Description | Status | Tech |
 |:-------:|:-----------:|:------:|:----:|
-| 🔴 **[Sarimo](#)** | Manga/Manhwa reader · 1423+ sources | 🔨 In Dev | RN · Node · MongoDB |
-| 🟠 **[SailusFit](#)** | AI calisthenics tracker · XP + Rankings | 🚀 Launching | RN · PostgreSQL · OpenAI |
-| 🟣 **[Areal Bot](#)** | Discord bot · 75+ commands · Dashboard | ✅ Live v4.0 | Discord.js · Docker |
+| 🟣 **[Sarimo](#)** | Manga/Manhwa reader · 1423+ sources | 🔨 In Dev | RN · Node · MongoDB |
+| 🟠 **[SailusFit](#)** | AI calisthenics tracker · XP + Rankings | 🚀 Launching | RN · PostgreSQL · Gorq |
+| 🔴 **[Areal Bot](https://discord.gg/dWNV8cfEfY)** | Discord bot · 75+ commands · Dashboard | ✅ Live v4.0 | Discord.js · Docker |
 | 🔵 **[Veil](https://appveil.netlify.app)** | Anonymous feedback PWA | ✅ Live v5.0 | PWA · JS |
 
 </div>
