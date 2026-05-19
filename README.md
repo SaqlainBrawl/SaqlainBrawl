@@ -37,8 +37,7 @@ const saqlain = {
   ],
 
   startedCoding : "Self-taught since 2021",
-        funFact : "Started freelancing before most people 
-                 finish their first tutorial 😎",
+        funFact : "rep|!t was a goldmine but not anymore",
 };
 ```
 
