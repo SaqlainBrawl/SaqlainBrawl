@@ -36,9 +36,9 @@ const saqlain = {
     "💼 Full Stack Developer @ No Error Studio (1.5 yrs)",
   ],
 
-  startedCoding : "8th Grade · ~13 years old",
-  firstProject  : "Discord bots for large communities",
-  funFact       : "Built all this while studying for exams 😭🔥",
+  startedCoding : "Self-taught since 2021",
+        funFact : "Started freelancing before most people 
+                 finish their first tutorial 😎",
 };
 ```
 
@@ -223,8 +223,9 @@ Send brutally honest feedback. No identity. No filter.
 ## ◈ Journey
 
 ```
-2021 ───── Started coding · 8th Grade (~13 years old)
+2021 ───── Where it all began
             └── HTML & CSS → immediately obsessed
+            └── Self-taught from day one
 
 2022 ───── Levelled up fast
             └── Built first Discord bots for large servers
